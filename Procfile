@@ -1,1 +1,1 @@
-web: Python2.7 rss.py
+web: python2.7 rss.py
