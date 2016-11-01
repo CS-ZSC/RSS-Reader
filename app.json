@@ -1,0 +1,5 @@
+{
+  "name": "RSS Reader",
+  "description": "Simple RSS Feed reader from IEEE Spectrum Computing in Python",
+  "image": "heroku/python"
+}
