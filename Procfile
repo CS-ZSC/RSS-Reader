@@ -1,1 +1,1 @@
-web: gunicorn rss:app --log-file -
+web: Python2.7 rss.py

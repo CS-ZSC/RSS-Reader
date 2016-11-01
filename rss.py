@@ -44,4 +44,4 @@ def rssread():
   return render_template('index.html', feed0=feed0, feed1=feed1, feed2=feed2)
 
 if __name__ == '__main__':
-  app.run(port=os.environ['PORT'])
+  app.run(host='0.0.0.0', port=os.environ['PORT'])
